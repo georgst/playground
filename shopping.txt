@@ -6,3 +6,4 @@ Bread
 Potatoes
 Eggs
 Beer
+Whiskey
