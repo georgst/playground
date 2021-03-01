@@ -4,3 +4,4 @@ Milk
 Bread
 Potatoes
 Eggs
+Beer
